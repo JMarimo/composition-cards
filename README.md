@@ -1,0 +1,1 @@
+![CI](https://github.com/JMarimo/composition-cards/actions/workflows/web.yml/badge.svg)
